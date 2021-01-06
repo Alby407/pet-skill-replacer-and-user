@@ -1,17 +1,17 @@
 {
-	"files": {
-		"README.md": "c089328973f43181e52805ed89415bc420fb8a6ce376c751abc04389e2f0f497",
-		"config.json": {
-			"overwrite": false,
-			"hash": "03f0591f5ccb157d6d0bd1421e0cbe598c755120a6df5d144dd7683fc6f29165"
-		},
-		"index.js": "404459ccad3ee8e7e315b574fc806af86a175bc68d0b49a23bf0e0fa5516d1f2",
-		"module.json": "7cf1875914a3154b1da01d6ea7c090ff1445b2991fd1d04ca08e1560aee2597a"
-	},
-	"defs": {
-		"C_START_SERVANT_ACTIVE_SKILL": 1,
-		"C_USE_ITEM": 3,
-		"S_REQUEST_DESPAWN_SERVANT": 1,
-		"S_REQUEST_SPAWN_SERVANT": 1
-	}
+    "files": {
+        "README.md": "c089328973f43181e52805ed89415bc420fb8a6ce376c751abc04389e2f0f497",
+        "config.json": {
+            "overwrite": false,
+            "hash": "03f0591f5ccb157d6d0bd1421e0cbe598c755120a6df5d144dd7683fc6f29165"
+        },
+        "index.js": "B1781657D3D319569E28B0B9D104EC5796ABEB8B56271476BCE4F7142D1F0AB8",
+        "module.json": "7cf1875914a3154b1da01d6ea7c090ff1445b2991fd1d04ca08e1560aee2597a"
+    },
+    "defs": {
+        "C_START_SERVANT_ACTIVE_SKILL": 1,
+        "C_USE_ITEM": 3,
+        "S_REQUEST_DESPAWN_SERVANT": 1,
+        "S_REQUEST_SPAWN_SERVANT": 4
+    }
 }
